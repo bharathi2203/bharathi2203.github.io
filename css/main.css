@@ -3,6 +3,13 @@ body {
     margin: 60px auto;
     width: 70%;
 }
+header {
+    font-family: "Lucida Console", "Courier New", monospace;
+    padding: 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+}
 nav ul, footer ul {
     background-color: rgb(3, 41, 66);
     font-family: "Times New Roman", Times, serif;
