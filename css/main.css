@@ -10,7 +10,7 @@ header {
     text-align: center;
 }
 nav ul, footer ul {
-    background-color: rgb(3, 41, 66);
+    background-color: rgb(3, 41, 66, 0.5);
     font-family: "Times New Roman", Times, serif;
     padding: 10px;
     list-style: none;
@@ -35,23 +35,20 @@ a:hover {
     color: white;
 }
 h1 {
-    font-size: 20px;
+    font-size: 24px;
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
 }
 h2 {
-    font-size: 16px;
+    font-size: 20px;
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
 }
 h3 {
-    font-size: 16px;
+    font-size: 18px;
     font-family: "Times New Roman", Times, serif;
 }
 h4 {
-    font-size: 14px;
+    font-size: 16px;
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
 }
 h5 {
     font-size: 14px;
@@ -60,7 +57,6 @@ h5 {
 h6 {
     font-size: 12px;
     font-family: "Times New Roman", Times, serif;
-    font-weight: bold;
 }
 p {
     font-size: 12px;
