@@ -5,15 +5,17 @@ body {
 }
 nav ul, footer ul {
     background-color: rgb(3, 41, 66);
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
+    font-family: "Times New Roman", Times, serif;
     padding: 50px;
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
     background-color: rgb(3, 41, 66);
+    font-family: "Times New Roman", Times, serif;
     display: inline;
     margin-right: 20px;
+    color: white;
 }
 a {
     text-decoration: none;
