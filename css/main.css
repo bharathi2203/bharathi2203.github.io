@@ -6,7 +6,7 @@ body {
 nav ul, footer ul {
     background-color: rgb(3, 41, 66);
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 20px;
+    padding: 50px;
     list-style: none;
     font-weight: bold;
 }
@@ -59,6 +59,7 @@ footer {
 
 ul.posts { 
     margin: 20px auto 40px; 
+    font-family: "Times New Roman", Times, serif;
     font-size: 12px;
 }
 
