@@ -10,7 +10,7 @@ header {
     text-align: center;
 }
 nav ul, footer ul {
-    background-color: rgb(3, 41, 66, 0.5);
+    background-color: rgba(0, 4, 85, 0.8);
     font-family: "Times New Roman", Times, serif;
     padding: 10px;
     list-style: none;
