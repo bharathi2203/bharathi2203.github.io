@@ -6,7 +6,6 @@ body {
 header {
     font-family: "Lucida Console", "Courier New", monospace;
     font-size: 16px;
-    font-weight: bold;
     text-align: center;
 }
 nav ul, footer ul {
