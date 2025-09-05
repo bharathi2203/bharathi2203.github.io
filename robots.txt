@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://bharathi2203.github.io/al-folio/sitemap.xml
+Sitemap: https://bharathi2203.github.io/sitemap.xml
